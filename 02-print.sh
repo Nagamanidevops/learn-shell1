@@ -10,10 +10,10 @@ echo " ***** helloworld ***** "
 #blue  35 -e "/e[COLmMESSAGE\[0m"
 #cyan  31 -e "/e[COLmMESSAGE\[0m"
 
-echo  31 -e "\e[COLmMESSAGE\[0m"
-echo  32 -e "\e[COLmMESSAGE\[0m"
-echo  33 -e "\e[COLmMESSAGE\[0m"
-echo  34 -e "\e[COLmMESSAGE\[0m"
+echo  -e "\e[31mMESSAGE\[0m"
+echo   -e "\e[32mMESSAGE\[0m"
+echo   -e "\e[33mMESSAGE\[0m"
+echo   -e "\e[34mMESSAGE\[0m"
 
 
 
