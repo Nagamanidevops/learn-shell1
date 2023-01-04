@@ -1,5 +1,4 @@
 # learn-shell1
-###hi this is new file 
-#### this is 2nd update
-###3 updat 
-#update4
+#in this repo we will keep repo shell files
+
+#shel 
